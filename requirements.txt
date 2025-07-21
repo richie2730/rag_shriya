@@ -1,0 +1,26 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+
+# AI/ML dependencies  
+langchain
+langchain-community
+langchain-google-genai
+langchain-openai
+langchain-qdrant
+langchain-faiss
+langchain-pinecone
+pinecone
+qdrant-client
+faiss-cpu
+openai
+tiktoken
+
+# Repository management
+gitpython
+
+# Environment and configuration
+python-dotenv
